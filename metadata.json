@@ -1,0 +1,4 @@
+{
+  "name": "DiskViz Dashboard",
+  "description": "A React frontend for visualizing disk usage and file types, featuring a Treemap visualization and file type distribution charts."
+}
